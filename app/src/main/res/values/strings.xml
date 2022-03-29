@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Indonesian Hero</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="from">Asal</string>
+    <string name="menu_list">List</string>
+    <string name="menu_grid">Grid</string>
+    <string name="with_cardview">CardView</string>
+    <string name="description">deskripsi</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>
